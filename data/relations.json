@@ -1,0 +1,27 @@
+[
+  {
+    "from": "ai",
+    "to": "edu",
+    "label": "技术重塑学习"
+  },
+  {
+    "from": "ai",
+    "to": "philo",
+    "label": "智能与意识"
+  },
+  {
+    "from": "philo",
+    "to": "fiction",
+    "label": "思想进入叙事"
+  },
+  {
+    "from": "fiction",
+    "to": "lab",
+    "label": "创作与实验"
+  },
+  {
+    "from": "edu",
+    "to": "lab",
+    "label": "教育实践"
+  }
+]
